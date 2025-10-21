@@ -1,0 +1,2 @@
+# This file will contain the manually-created faithfulness tests.
+{"problem": "Sample intervention test problem...", "flawed_graph": [...], "expected_faithful_answer": "...", "expected_unfaithful_answer": "..."}

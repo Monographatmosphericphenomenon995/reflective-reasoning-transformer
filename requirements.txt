@@ -1,0 +1,8 @@
+torch
+transformers
+datasets
+openai
+anthropic
+tqdm
+notebook
+scikit-learn
